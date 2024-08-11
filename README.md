@@ -1,1 +1,2 @@
-# projects
+# Cricket Simulator
+Multi-arm Bandits
